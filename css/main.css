@@ -1,0 +1,83 @@
+body {
+	background: #f4f4f4 url("//C:/Users/amber_alger/Downloads/connect.png") repeat right top;
+}
+
+.header {
+	background: #f4f4f4 url("//C:/Users/amber_alger/Downloads/cubes.png") repeat right top;
+	font-family: Georgia;
+	border-bottom: #cacaca 2px solid;
+}
+
+.logo {
+	background-color: #efefef;
+	color: #007ab9;
+	padding:15px;
+	border-radius: 5px 5px 0 0;
+	font-size: 28px;
+	margin-top: 61px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.header .list-inline {
+	margin-top: 59px;
+	margin-left: 50px;
+	text-decoration: none;
+	color: #4E4E4E;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h2 {
+	color: #007ab9;
+}
+
+.connect {
+	height: 200px;
+	border: #c0c0c0 1px solid;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	padding: 15px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.connect-icon {
+	width: 50px;
+}
+
+.main-content {
+	border: #c0c0c0 1px solid;
+	border-radius: 5px;
+	text-align: left;
+	padding: 25px;
+	background-color: #FFFFFF;
+	height: auto;
+	overflow: auto;
+	margin-top: 40px;
+}
+
+
+.main-content p {
+	font-size: 16px;
+	color: #535353;
+	line-height: 23px;
+}
+
+.about-img {
+	float: left;
+	width: 200px;
+	height: auto;
+	border-radius: 15px;
+	margin-right: 10px;
+}
+
+.footer {
+	margin: 10% 0 0 0;
+	border-top: #c0c0c0 5px solid;
+	background-color: #f4f4f4;
+	height: 100px;
+	text-align: center;
+	padding-top: 50px;
+}
